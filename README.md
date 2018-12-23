@@ -1,4 +1,4 @@
-# Boilerplate to create react app using js
+# Boilerplate to create a javascript react component and export to npm  
  
 ###### Just clone the project , 
 
@@ -9,6 +9,6 @@
 
 ###### npm i
 
-###### replace a value "name" in package.json 
+###### replace a value "name" and "link" with your in package.json 
 
   
