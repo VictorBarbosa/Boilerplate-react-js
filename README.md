@@ -7,6 +7,8 @@
 
 ###### cd 'new project name'
 
+###### npm i
+
 ###### replace a value "name" in package.json 
 
   
