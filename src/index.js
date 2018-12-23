@@ -1,8 +1,9 @@
 import React ,{Component}from 'react';
-class ComponentName extends Component {
+import './index.css'
+ class ComponentName extends Component {
   render() {
     return (
-      <div>The component is here</div>
+      <div className="Banzinga Voila">The component is here</div>
     );
   }
 }
