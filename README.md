@@ -13,6 +13,7 @@
 ###### npm run build : to create a build projec
 ###### npm link : to create a link and test in another project
 
+###### npm link 'the same name you used in name and link' you will to create a link with main project 
 ###### replace a value "name" and "link" with your in package.json 
 
   
