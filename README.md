@@ -9,6 +9,10 @@
 
 ###### npm i
 
+###### npm start : webpack --watch
+###### npm run build : to create a build projec
+###### npm link : to create a link and test in another project
+
 ###### replace a value "name" and "link" with your in package.json 
 
   
